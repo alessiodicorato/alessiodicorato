@@ -6,7 +6,7 @@
 
 - 🌍 I live in **Velletri, Rome**
 - 🌱 I'm learning: `Android`, `Kotlin`, `Git`, `API & Network Calls`
-- ⚡ Hobbies:**Musician**, **Pianist** and **Fitness**
+- ⚡ Hobbies: **Musician**, **Pianist** and **Fitness**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/alessio-dicorato-45a892212/)
 
 <!--
