@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-#### I'm an Android Developer Student at [Develhope](https://develhope.co/en/)
+#### I'm a Junior Android Developer
 
 ##### BIO
 
 - 🌍 I live in **Velletri, Rome**
-- 🌱 I'm learning: `Android`, `Kotlin`, `Git`, `API & Network Calls`
-- ⚡ Hobbies: **Musician**, **Pianist** and **Fitness**
+- 🌱 I'm learning: `Android`, `Kotlin`, `Git`, `Jetpack Compose`
+- ⚡ Hobbies: **Lifting**, **Reading** and **Self-Improvement**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/alessio-dicorato-45a892212/)
 
 <!--
