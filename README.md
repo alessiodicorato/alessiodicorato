@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Junior Android Developer
+#### I'm an **Android Developer** since 2022.
 
 ##### BIO
 
