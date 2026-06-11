@@ -1,24 +1,24 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header" alt="header"/>
 
-#### I'm an **Android Developer** since 2022.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=6000&pause=1000&repeat=false&width=550&lines=Hello%2C+it's+Alessio+Dicorato+%7C+Front-End+Dev)](https://git.io/typing-svg)
 
-##### BIO
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- 🌍 I live in **Velletri, Rome**
-- 🌱 I'm learning: `Android`, `Kotlin`, `Git`, `Jetpack Compose`
+### Bio
+
+- 🔭 I’m currently looking for a Junior Front-End job
+- 🌱 I'm learning **Web Development**
+- 📱 I have 3+ years of experience in Android Mobile Development
+- 🎹 I'm also a [**Pianist and Music Producer**](https://www.liinks.co/AlessioDicorato), making covers from Video Games, Anime & Movies
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/alessio-dicorato-45a892212/)
 
-<!--
-**alessiodicorato/alessiodicorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,redux,vite&theme=dark)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+### Mobile
+[![My Skills](https://skillicons.dev/icons?i=kotlin,firebase,androidstudio&theme=dark)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,figma&theme=dark)](https://skillicons.dev)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" alt="header"/>
