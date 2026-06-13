@@ -13,7 +13,7 @@
   
 📱 I have 3+ years of experience in Android Mobile Development
   
-🎹 I'm also a [**Pianist and Music Producer**](https://www.liinks.co/AlessioDicorato), making covers from Video Games, Anime & Movies
+🎹 I'm also a [**Pianist and Music Producer**](https://links.alessiodicorato.com/), making covers from Video Games, Anime & Movies
   
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/alessio-dicorato-45a892212/)
 
