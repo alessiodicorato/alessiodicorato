@@ -15,7 +15,7 @@
   
 🎹 I'm also a [**Pianist and Music Producer**](https://links.alessiodicorato.com/), making covers from Video Games, Anime & Movies
   
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/alessio-dicorato-45a892212/)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/alessiodicorato/)
 
 <br></br>
 
